@@ -1,0 +1,3 @@
+hesaplama5.Hesaplama5$1toplama5
+hesaplama5.Hesaplama5
+hesaplama5.toplayici

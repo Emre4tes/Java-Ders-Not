@@ -1,0 +1,4 @@
+polimorfizimıki.Hayvan
+polimorfizimıki.PolimorfizimIki
+polimorfizimıki.Timsah
+polimorfizimıki.Aslan

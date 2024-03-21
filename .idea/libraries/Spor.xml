@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Spor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Spor/dist/Spor.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

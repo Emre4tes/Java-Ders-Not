@@ -1,0 +1,3 @@
+televizyon2.XModel
+televizyon2.Televizyon2
+televizyon2.YModel

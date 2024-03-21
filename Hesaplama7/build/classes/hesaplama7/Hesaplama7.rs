@@ -1,0 +1,3 @@
+hesaplama7.Hesaplama7$1
+hesaplama7.Hesaplama7
+hesaplama7.BuyukToplayici

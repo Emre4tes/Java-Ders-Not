@@ -1,0 +1,2 @@
+statiktopludegerata.Kopek
+statiktopludegerata.StatikTopluDegerAta
